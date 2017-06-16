@@ -1,0 +1,122 @@
+\hypertarget{class_transport}{}\section{Transport Class Reference}
+\label{class_transport}\index{Transport@{Transport}}
+
+
+{\ttfamily \#include $<$Transport.\+hpp$>$}
+
+
+
+Collaboration diagram for Transport\+:\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=193pt]{class_transport__coll__graph}
+\end{center}
+\end{figure}
+\subsection*{Public Types}
+\begin{DoxyCompactItemize}
+\item 
+enum \hyperlink{class_transport_a1879cecfed0d4238e5a7af6d085db317}{Type} \{ \hyperlink{class_transport_a1879cecfed0d4238e5a7af6d085db317a9eb45a1db8620c55d48eeee34f09980c}{F\+O\+OT}, 
+\hyperlink{class_transport_a1879cecfed0d4238e5a7af6d085db317a03910f9910b1cda89566027b1c4f2740}{B\+US}, 
+\hyperlink{class_transport_a1879cecfed0d4238e5a7af6d085db317a1e7a9bb5192d54bdccb9bc99bd35849b}{S\+U\+B\+W\+AY}, 
+\hyperlink{class_transport_a1879cecfed0d4238e5a7af6d085db317ae0cc8f327733360f7ccf5abf2b5e7454}{A\+C\+C\+E\+SS}
+ \}
+\end{DoxyCompactItemize}
+\subsection*{Public Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+unsigned int \hyperlink{class_transport_ae9b8f3d27331e429160827194e32bde1}{get\+Vel} (\hyperlink{class_transport_a1879cecfed0d4238e5a7af6d085db317}{Type} t) const
+\item 
+unsigned int \hyperlink{class_transport_a943eecabe9f2435fcbf2bd3a41a4ea3a}{get\+Cost} (\hyperlink{class_transport_a1879cecfed0d4238e5a7af6d085db317}{Type} t) const
+\end{DoxyCompactItemize}
+\subsection*{Static Public Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+static \hyperlink{class_transport}{Transport} $\ast$ \hyperlink{class_transport_a2265878b8225332acf586bece5f1b324}{get\+Instance} ()
+\end{DoxyCompactItemize}
+\subsection*{Static Public Attributes}
+\begin{DoxyCompactItemize}
+\item 
+static constexpr const float \hyperlink{class_transport_a40222f8cbeb3114a848c091bb9b78c61}{M\+E\+A\+N\+\_\+\+W\+A\+I\+T\+\_\+\+T\+I\+ME} = 4. / 60
+\end{DoxyCompactItemize}
+
+
+\subsection{Detailed Description}
+Class used to represent means of \hyperlink{class_transport}{Transport}. The difference between means of \hyperlink{class_transport}{Transport} is the velocity with which they can traverse a certain route. 
+
+\subsection{Member Enumeration Documentation}
+\hypertarget{class_transport_a1879cecfed0d4238e5a7af6d085db317}{}\label{class_transport_a1879cecfed0d4238e5a7af6d085db317} 
+\index{Transport@{Transport}!Type@{Type}}
+\index{Type@{Type}!Transport@{Transport}}
+\subsubsection{\texorpdfstring{Type}{Type}}
+{\footnotesize\ttfamily enum \hyperlink{class_transport_a1879cecfed0d4238e5a7af6d085db317}{Transport\+::\+Type}}
+
+Enumeration containing the different means of transport. \begin{DoxyEnumFields}{Enumerator}
+\raisebox{\heightof{T}}[0pt][0pt]{\index{F\+O\+OT@{F\+O\+OT}!Transport@{Transport}}\index{Transport@{Transport}!F\+O\+OT@{F\+O\+OT}}}\hypertarget{class_transport_a1879cecfed0d4238e5a7af6d085db317a9eb45a1db8620c55d48eeee34f09980c}{}\label{class_transport_a1879cecfed0d4238e5a7af6d085db317a9eb45a1db8620c55d48eeee34f09980c} 
+F\+O\+OT&\\
+\hline
+
+\raisebox{\heightof{T}}[0pt][0pt]{\index{B\+US@{B\+US}!Transport@{Transport}}\index{Transport@{Transport}!B\+US@{B\+US}}}\hypertarget{class_transport_a1879cecfed0d4238e5a7af6d085db317a03910f9910b1cda89566027b1c4f2740}{}\label{class_transport_a1879cecfed0d4238e5a7af6d085db317a03910f9910b1cda89566027b1c4f2740} 
+B\+US&\\
+\hline
+
+\raisebox{\heightof{T}}[0pt][0pt]{\index{S\+U\+B\+W\+AY@{S\+U\+B\+W\+AY}!Transport@{Transport}}\index{Transport@{Transport}!S\+U\+B\+W\+AY@{S\+U\+B\+W\+AY}}}\hypertarget{class_transport_a1879cecfed0d4238e5a7af6d085db317a1e7a9bb5192d54bdccb9bc99bd35849b}{}\label{class_transport_a1879cecfed0d4238e5a7af6d085db317a1e7a9bb5192d54bdccb9bc99bd35849b} 
+S\+U\+B\+W\+AY&\\
+\hline
+
+\raisebox{\heightof{T}}[0pt][0pt]{\index{A\+C\+C\+E\+SS@{A\+C\+C\+E\+SS}!Transport@{Transport}}\index{Transport@{Transport}!A\+C\+C\+E\+SS@{A\+C\+C\+E\+SS}}}\hypertarget{class_transport_a1879cecfed0d4238e5a7af6d085db317ae0cc8f327733360f7ccf5abf2b5e7454}{}\label{class_transport_a1879cecfed0d4238e5a7af6d085db317ae0cc8f327733360f7ccf5abf2b5e7454} 
+A\+C\+C\+E\+SS&\\
+\hline
+
+\end{DoxyEnumFields}
+
+
+\subsection{Member Function Documentation}
+\hypertarget{class_transport_a943eecabe9f2435fcbf2bd3a41a4ea3a}{}\label{class_transport_a943eecabe9f2435fcbf2bd3a41a4ea3a} 
+\index{Transport@{Transport}!get\+Cost@{get\+Cost}}
+\index{get\+Cost@{get\+Cost}!Transport@{Transport}}
+\subsubsection{\texorpdfstring{get\+Cost()}{getCost()}}
+{\footnotesize\ttfamily unsigned int Transport\+::get\+Cost (\begin{DoxyParamCaption}\item[{\hyperlink{class_transport_a1879cecfed0d4238e5a7af6d085db317}{Type}}]{t }\end{DoxyParamCaption}) const}
+
+Getter for the cost of the current mean of \hyperlink{class_transport}{Transport}, in cents per Kilometer.
+
+\begin{DoxyReturn}{Returns}
+Cost of the current mean of \hyperlink{class_transport}{Transport}. 
+\end{DoxyReturn}
+\hypertarget{class_transport_a2265878b8225332acf586bece5f1b324}{}\label{class_transport_a2265878b8225332acf586bece5f1b324} 
+\index{Transport@{Transport}!get\+Instance@{get\+Instance}}
+\index{get\+Instance@{get\+Instance}!Transport@{Transport}}
+\subsubsection{\texorpdfstring{get\+Instance()}{getInstance()}}
+{\footnotesize\ttfamily \hyperlink{class_transport}{Transport} $\ast$ Transport\+::get\+Instance (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})\hspace{0.3cm}{\ttfamily [static]}}
+
+Getter for the current mean of \hyperlink{class_transport}{Transport}. If no mean of transport exists, a new one is created.
+
+\begin{DoxyReturn}{Returns}
+The current mean of \hyperlink{class_transport}{Transport}. 
+\end{DoxyReturn}
+\hypertarget{class_transport_ae9b8f3d27331e429160827194e32bde1}{}\label{class_transport_ae9b8f3d27331e429160827194e32bde1} 
+\index{Transport@{Transport}!get\+Vel@{get\+Vel}}
+\index{get\+Vel@{get\+Vel}!Transport@{Transport}}
+\subsubsection{\texorpdfstring{get\+Vel()}{getVel()}}
+{\footnotesize\ttfamily unsigned int Transport\+::get\+Vel (\begin{DoxyParamCaption}\item[{\hyperlink{class_transport_a1879cecfed0d4238e5a7af6d085db317}{Transport\+::\+Type}}]{t }\end{DoxyParamCaption}) const}
+
+Getter for the velocity of the current mean of \hyperlink{class_transport}{Transport}.
+
+\begin{DoxyReturn}{Returns}
+Velocity of the current mean of \hyperlink{class_transport}{Transport}. 
+\end{DoxyReturn}
+
+
+\subsection{Member Data Documentation}
+\hypertarget{class_transport_a40222f8cbeb3114a848c091bb9b78c61}{}\label{class_transport_a40222f8cbeb3114a848c091bb9b78c61} 
+\index{Transport@{Transport}!M\+E\+A\+N\+\_\+\+W\+A\+I\+T\+\_\+\+T\+I\+ME@{M\+E\+A\+N\+\_\+\+W\+A\+I\+T\+\_\+\+T\+I\+ME}}
+\index{M\+E\+A\+N\+\_\+\+W\+A\+I\+T\+\_\+\+T\+I\+ME@{M\+E\+A\+N\+\_\+\+W\+A\+I\+T\+\_\+\+T\+I\+ME}!Transport@{Transport}}
+\subsubsection{\texorpdfstring{M\+E\+A\+N\+\_\+\+W\+A\+I\+T\+\_\+\+T\+I\+ME}{MEAN\_WAIT\_TIME}}
+{\footnotesize\ttfamily constexpr const float Transport\+::\+M\+E\+A\+N\+\_\+\+W\+A\+I\+T\+\_\+\+T\+I\+ME = 4. / 60\hspace{0.3cm}{\ttfamily [static]}}
+
+
+
+The documentation for this class was generated from the following files\+:\begin{DoxyCompactItemize}
+\item 
+\hyperlink{_transport_8hpp}{Transport.\+hpp}\item 
+\hyperlink{_transport_8cpp}{Transport.\+cpp}\end{DoxyCompactItemize}

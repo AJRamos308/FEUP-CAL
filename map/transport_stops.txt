@@ -1,0 +1,96 @@
+2904508475;Trindade
+1110698245;Goncalo Cristovao
+4708512440;Praca da Republica
+353286182;Figueiroa
+475360049;Carvalhosa
+1416641674;Carolina Michaelis
+4749945219;Cruz Vermelha
+473849956;Quinta Amarela
+475355976;Carvalhido
+1202110494;Hospital da Prelada
+4573825393;Cintura Interna
+126604780;Parque da Prelada
+2489677590;Senhora do Porto
+2596033750;Monte dos Burgos
+296058886;C. Seixo (Sul)
+3241162403;Fogueteiros
+2196549040;Marques
+3896082255;Faria Guimaraes
+128560449;Antero de Quental
+474546948;Piscina (Constituicao)
+3163927501;Sapadores Bombeiros
+474695389;BCG
+4505281862;Serpa Pinto
+2532268721;Avenida Franca
+1866347297;Rua Francisco Sanches
+1866347404;Domingos Sequeira
+1866347438;Casa da Musica
+2094769995;Boavista Casa da Musica
+335691888;Agramonte
+2225262331;Hospital Sao Joao
+4378186331;IPO (Circunvalacao)
+2169139651;Sao Tome
+112652012;Amial
+112652018;Capuchinhos
+112628000;Via Norte
+297370462;Monte dos Burgos
+3241140500;Congostas
+3456445898;Bairro Santo Eugenio
+3573222246;Hospital Sao Joao (Urgencia)
+3573222154;Escola Superior Educacao
+3573222104;Faculdade de Engenharia
+412249450;Faculdade de Economia
+2073943320;Manuel Laranjeira
+112597525;Outeiro
+444017063;Salgueiros
+4452315764;Augusto Lessa
+343634649;Aval de Cima
+343646655;Bento Junior
+4526689733;Covelo
+435468997;Campo Lindo
+474793789;Vale Formoso
+474789323;Carvalhido
+474789315;Bica Velha
+4455723345;Nataria
+4464000796;Carvalhido
+122432550;Casa de Saude da Boavista
+126597343;Moreira de Sa
+1866347372;Casa da Musica
+2094769995;Boavista Casa da Musica
+137818312;Bom Sucesso
+2100595280;Praca da Galiza
+3092543636;Junta de Massarelos
+452682249;Trindade
+25632292;Martires da Liberdade
+4708512440;Praca da Republica
+1422610104;Lapa
+137993249;Hospital Sta. Maria
+4573825411;Constituicao
+4457851537;Vale Formoso
+474800927;Centro Saude Paranhos
+128560437;Arca d'Agua
+2605287581;Cintura Interna
+128560423;Carlos Amarante
+124365951;Estacao Trindade
+280197618;Estacao Faria Guimaraes
+280198315;Estacao Combatentes
+280199199;Estacao Polo Universitario
+280199207;Estacao Salgueiros
+280200620;Estacao IPO
+280200623;Estacao Hospital Sao Joao
+3554953495;Estacao Marques
+3379782779;Estacao Bolhao
+3397147910;Estacao Carolina Michaelis
+3397147911;Estacao Casa da Musica
+3397147914;Estacao Francos
+3397147915;Estacao Lapa
+4751793166;Sto. Isidro
+4452315921;Esc. Aurelia Sousa
+1216751949;Carvalhido
+335740866;Castelos
+2211012591;Maria Lamas
+4598553373;Prelada
+257736401;Urbanizacao Prelada
+4598555508;Urbanizacao Prelada
+4457269831;Bairro Sto. Eugenio
+1561603976;Cotovias
